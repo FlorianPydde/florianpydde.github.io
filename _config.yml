@@ -1,0 +1,7 @@
+title: Florian Pydde
+description: Data Science Experience
+theme: jekyll-theme-slate
+gems: [jekyll-mermaid]
+relative_links:
+  enabled:     true
+  collections: false
