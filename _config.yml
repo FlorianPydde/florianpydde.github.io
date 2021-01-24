@@ -1,7 +1,6 @@
-title: Florian Pydde
-description: Data Science based on real life experience 
-theme: jekyll-theme-cayman
-gems: [jekyll-mermaid]
-relative_links:
-  enabled:     true
-  collections: false
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
