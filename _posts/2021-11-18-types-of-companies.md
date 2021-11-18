@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to decide which company to apply to ?"
+title: "Think about the type of company before applying"
 date: 2021-11-18 21:00:00 -0000
 categories: Consulting Job DataScience
 ---
