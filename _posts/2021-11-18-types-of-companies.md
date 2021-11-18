@@ -1,7 +1,9 @@
+---
 layout: post
 title: "How to decide which company to apply to ?"
 date: 2021-11-18 21:00:00 -0000
 categories: Consulting Job DataScience
+---
 
 I often happen to discuss career ideas with colleagues and one topic that always comes up is the type of company to consider when searching for a new position.
 
