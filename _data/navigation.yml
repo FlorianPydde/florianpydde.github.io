@@ -1,8 +1,6 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
   - title: "Portfolio"
@@ -11,3 +9,5 @@ main:
     url: /contact/
   - title: "Archive"
     url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
