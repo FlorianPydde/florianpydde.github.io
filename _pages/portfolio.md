@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Portfolio
+layout: single
+title: "Portfolio"
 permalink: /portfolio/
+author_profile: true
 ---
 
 In this page, you can find all the project I have worked on:

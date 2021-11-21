@@ -1,8 +1,12 @@
 ---
-layout: post
 title: "Think about the type of company before applying"
-date: 2021-11-18 21:00:00 -0000
-categories: Consulting Job DataScience
+date: 2021-05-18T15:34:30-04:00
+categories:
+  - Blog
+tags:
+  - Consulting
+  - Job
+  - Datascience
 ---
 
 I often happen to discuss career ideas with colleagues and one topic that always comes up is the type of company to consider when searching for a new position.

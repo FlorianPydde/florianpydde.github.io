@@ -1,0 +1,30 @@
+  Florian Pydde:
+    # name   : "Florian Pydde"
+    avatar : "/assets/images/personal-image.jpg"
+    bio    : "Senior Data Scientist at Microsoft Consulting Services"
+    nationality : Swiss Nationality
+    location: "Valencia, Spain"
+    links:
+      # - label: "Website"
+      #   icon: "fas fa-fw fa-link"
+      #   url: "https://"
+      # - label: "Twitter"
+      #   icon: "fab fa-fw fa-twitter-square"
+      #   url: "https://twitter.com/"
+      # - label: "Swiss nationality"
+      #   icon: "fas fa-fw fa-globe-europe"
+      #   url: ""
+
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
+        url: mailto:florian.pydde@gmail.com
+
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/FlorianPydde"
+      # - label: "Instagram"
+      #   icon: "fab fa-fw fa-instagram"
+      #   url: "https://instagram.com/"
+      - label: "Linkedin"
+        icon: "fab fa-fw fa-linkedin-in"
+        url: "https://www.linkedin.com/in/florian-pydde/"
