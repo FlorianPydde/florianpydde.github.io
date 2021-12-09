@@ -14,6 +14,7 @@ $h-size-2: 1.0em !default;
 $h-size-1: 1.25em !default;
 $h-size-3: 0.95em !default;
 
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
