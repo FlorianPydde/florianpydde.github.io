@@ -2,7 +2,7 @@
     # name   : "Florian Pydde"
     avatar : "/assets/images/personal-image.jpg"
     bio    : "Senior Data Scientist at Microsoft Consulting Services"
-    nationality : Swiss Nationality
+    # nationality : Swiss Nationality
     location: "Valencia, Spain"
     links:
       # - label: "Website"
